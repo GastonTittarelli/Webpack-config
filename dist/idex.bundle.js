@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[415],{25:function(n,e,o){var s=o(543),u=o.n(s);console.log(u().join(["Ghriffi","module","loaded!"," "]))}},function(n){n(n.s=25)}]);
